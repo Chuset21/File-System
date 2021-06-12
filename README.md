@@ -1,2 +1,2 @@
 # File System
-### A basic file system I made when learning scala
+### A basic file system that mimics Linux commands
